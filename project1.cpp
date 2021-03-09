@@ -3,6 +3,7 @@
 //Name: Carson Welty
 //netID: cwelt001
 //SID: 862012918
+//don't copy this losers I'm watching you
 
 #include <iostream>
 #include <string>
